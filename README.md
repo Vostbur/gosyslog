@@ -1,0 +1,2 @@
+# gosyslog
+Syslog server
