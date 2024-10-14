@@ -1,0 +1,3 @@
+server:
+  port: 514
+log_folder: ./%HOSTNAME%/
